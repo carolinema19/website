@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: Infinity;
+  clear: left;
+  padding-top: 15px;
+}
+
+img {
+  height: 200px;
+}
+
+nav{
+  padding-right: 4%
+}
+
+nav ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  font-size: 15px;
+  padding-left:  10px;
+}
+
+nav li a {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+.img {
+  text-align: center;
+}
+
+h2, h3 {
+  font-family: 'Dosis', sans-serif;
+}
+
+p, li, {
+  font-family: 'Dosis', sans-serif;
+  font-size: 15px;
+}
+
+footer {
+  font-family: 'Dosis', sans-serif;
+  font-style: italic;
+}
